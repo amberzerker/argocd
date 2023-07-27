@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: amberzerk/nginx:v0.2
+          image: amberzerk/nginx:v0.3
           ports:
             - containerPort: 80
